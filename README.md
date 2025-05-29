@@ -59,6 +59,7 @@ To add or modify intents:
 
 ## 🧪 Model Files
 -chat_model.h5 — Trained neural network for intent classification
+
 -label_encoder.pkl — Encodes class labels
 If you want to retrain:
 -Update intents.json
