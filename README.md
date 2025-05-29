@@ -18,15 +18,25 @@ Jarvis-NLP is a simple virtual assistant that can understand user queries throug
 
 Jarvis-NLP/
 ├── chat_model.h5 # Trained model for intent classification
+
 ├── label_encoder.pkl # Label encoder for intent labels
+
 ├── intents.json # Intent definitions
+
 ├── command.py # Python script to handle chat logic
+
 ├── controller.js # Frontend interaction logic
+
 ├── index.html # Web interface
+
 ├── README.md # Project documentation
+
 ├── LICENSE # MIT License
+
 ├── pycache/ # Cached Python bytecode
+
 └── Note_2025-04-24_19-51-04.txt # Notes or logs (optional)
+
 
 
 ## ⚙️ Installation
