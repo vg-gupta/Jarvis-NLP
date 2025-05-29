@@ -54,7 +54,9 @@ Open index.html in your browser to interact with Jarvis using text or voice.
 ## 🛠️ Customization
 To add or modify intents:
 -Open intents.json
+
 -Add new patterns and responses
+
 -Retrain the model (you can modify the training logic in command.py)
 
 ## 🧪 Model Files
